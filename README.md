@@ -32,11 +32,6 @@ The notebook performs:
 
 ---
 
-## 🖼 Preview
-![Conversion Rate Comparison](reports/abtest_rate_plot.png)
-
----
-
 ## 💡 Tech Stack
 `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Statsmodels`, `Scikit-learn`
 
