@@ -41,5 +41,5 @@ Z = 1.21,  p = 0.2269,  95% CI for B = [11.7179%, 12.0506%]
 ---
 
 📍 **Author:** Siyu Chen  
-📅 *October 2025 — personal project*  
+📅 *Sep 2024 - Jan 2025*  
 🏷️ *#DataScience #ABTesting #Experimentation #Statistics #PortfolioProject*
